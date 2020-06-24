@@ -1,7 +1,5 @@
 #Weather-Dashboard
 
-Weather-Dashboard
-
 ## Table of Contents
   * [Description](#description)
   * [Installation](#install)
